@@ -1,0 +1,30 @@
+huggingface_hub==0.25.1
+nltk==3.8.1
+python-dotenv==1.0.1
+black==24.4.0
+evaluate==0.4.3
+rouge_score==0.1.2
+pytest==8.2.1
+seaborn==0.13.2
+scikit-learn==1.5.0
+jupyter 
+ipywidgets
+packaging
+langchain-core==0.3.10 
+langchain_openai==0.2.2 
+langchain==0.3.3 
+langchain-community==0.3.2
+openai==1.51.2
+wandb==0.17.6
+# transformers==4.45.1
+transformers==4.43.4
+bitsandbytes #==0.43.3
+sentencepiece==0.1.98
+einops==0.8.0
+accelerate==0.32.0
+peft==0.11.1
+sacrebleu==2.4.2
+unbabel-comet==2.2.2
+gradio==5.0.2
+protobuf==4.25.4
+bert_score==0.3.13
