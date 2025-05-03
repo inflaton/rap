@@ -9,8 +9,7 @@
 
 **Repetition-Aware Performance (RAP)** is a novel evaluation
 metric that quantifies and integrates repetition
-penalty into the assessment of model perfor-
-mance, enabling tuning of repetition penalty
+penalty into the assessment of model performance, enabling tuning of repetition penalty
 parameter (RPP).
 
 ## Abstract
@@ -35,9 +34,7 @@ prompting techniques. Experimental results
 show that RAP effectively tunes RPP,
 helping to identify a trade-off value that significantly
 reduces repetition while minimizing
-performance loss. The code and the dataset
-of generated text can be accessed at https:
-//github.com/inflaton/rap.
+performance loss.
 
 ## Installation
 ```bash
